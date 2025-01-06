@@ -1,7 +1,7 @@
 # Secure File Transfer System
 
 ## 🚀 Overview
-The **Secure File Transfer System** is a Python-based application for transferring any type of files of any size securely over a local network. Using robust encryption (AES), the project ensures safe and efficient file transfer between a server and multiple clients.
+The **Secure File Transfer System** is a Python-based application for transferring any type of files of any size securely over a local or ad-hoc network. Using robust encryption (AES), the project ensures safe and efficient file transfer between a server and multiple clients.
 
 ## 📜 Features
 - **End-to-End Encryption**: AES encryption with 256-bit keys for secure file transfer.
