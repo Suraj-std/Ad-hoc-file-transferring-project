@@ -94,5 +94,5 @@ Contributions are welcome! Follow these steps to get started:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: [mvsuraj2009@gmail.com](mailto:mvsuraj2009@gmail.com)
+- GitHub: [Suraj-std](https://github.com/Suraj-std)
