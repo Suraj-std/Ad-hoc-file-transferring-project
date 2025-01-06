@@ -39,7 +39,7 @@ The **Secure File Transfer System** is a Python-based application for transferri
 - Python 3.11
 - Required libraries (install via `requirements.txt`):
   ```plaintext
-  cryptography
+  pip install cryptography
   ```
 
 ### Installation
